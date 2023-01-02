@@ -37,7 +37,7 @@ All the subsets are available in json format, and can be used in the following m
 ```python
 import pandas as pd
 
-df = pd.read_json('file_path', orient='split', compression='infer')
+df = pd.read_json('downloaded_json_file_path', orient='split', compression='infer')
 ```
 
 Output:

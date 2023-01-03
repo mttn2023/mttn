@@ -1,4 +1,4 @@
-# MTTN: Multi-Pair Text to Text Narratives for Prompt Generation
+# MTTN: Multi-Pair Text to Text Narratives for Prompt Generation :books: :left_right_arrow: :page_facing_up:
 
 MTTN is a dataset which is aimed for text-2-text generation, with a focus on diffusion model prompts. The model trained on this data will be able to fill gaps and create natural propmts that can be used to generate images directly.
 
@@ -22,7 +22,7 @@ A clock sitting next to a pier, with a group of people below it | A clock sittin
 
 
 
-## Paper and datasets
+## Paper and datasets :page_with_curl:
 
 MTTN paper can be accessed from [here]().
 

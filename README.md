@@ -1,4 +1,4 @@
-# MTTN: Multi-Pair Text to Text Narratives for Prompt Generation :books: :left_right_arrow: :page_facing_up:
+# MTTN: Multi-Pair Text to Text Narratives for Prompt Generation :books: :left_right_arrow: :page_facing_up: :speech_balloon:
 
 MTTN is a dataset which is aimed for text-2-text generation, with a focus on diffusion model prompts. The model trained on this data will be able to fill gaps and create natural propmts that can be used to generate images directly.
 
@@ -54,4 +54,4 @@ Output:
 2    beautiful black woman fixing hair in the morning    beautiful black woman fixing hair in the morning    beautiful black woman fixing hair in the morning    beautiful black woman fixing hair in morning    beautiful black woman fixing hair in morning    woman fixing hair morning    woman hair morning    woman hair morning
 ```
 ___
-## Citation
+## Citation :pushpin:	

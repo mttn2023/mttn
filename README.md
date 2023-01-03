@@ -3,10 +3,10 @@
 MTTN is a dataset which is aimed for text-2-text generation, with a focus on diffusion model prompts. The model trained on this data will be able to fill gaps and create natural propmts that can be used to generate images directly.
 
 MTTN is derived from different popular text datasets, including 
-* [MS-COCO](), 
-* [WiT](), 
-* [Flickr](), 
-* [Conceptual captions]() 
+* [MS-COCO](https://cocodataset.org/), 
+* [WiT](https://arxiv.org/abs/2103.01913), 
+* [Flickr](https://shannon.cs.illinois.edu/DenotationGraph/), 
+* [Conceptual captions](https://ai.google.com/research/ConceptualCaptions/) 
 
 which were then merged with a  ***large collection of independent prompts***  that were originally used for image generations.
 

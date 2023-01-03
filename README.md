@@ -12,7 +12,7 @@ which were then merged with a  ***large collection of independent prompts***  th
 
 ___
 
-## Dataset Description
+## Dataset Description :ledger:
 
 To form MTTN, the data was cleaned of any trailing *ASCII* values of special characters, following which there different *Emojis* were removed. Finally the dataset was then stripped step by step till we were left with only subject and objects of the sentences. The following are the columns of the dataset with one sample data:
 
@@ -37,7 +37,7 @@ MTTN - 500K | [Download]() | 500K randomly sample data from the entire MTTN data
 MTTN - 1M   | [Download]() | 1M randomly sample data from the entire MTTN dataset
 MTTN - 2.5M | [Download]() | The full dataset that was created, containing more than 2.5 million samples
 
-## Usage
+## Usage :bar_chart:
 
 All the subsets are available in json format, and can be used in the following manner in python:
 ```python

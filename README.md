@@ -1,6 +1,6 @@
 # MTTN: Multi-Pair Text to Text Narratives for Prompt Generation :books: :left_right_arrow: :page_facing_up: :speech_balloon:
 
-MTTN is a dataset which is aimed for text-2-text generation, with a focus on diffusion model prompts. The model trained on this data will be able to fill gaps and create natural propmts that can be used to generate images directly.
+MTTN(read mutton) is a dataset which is aimed for text-2-text generation, with a focus on diffusion model prompts. The model trained on this data will be able to fill gaps and create natural propmts that can be used to generate images directly.
 
 MTTN is derived from different popular text datasets, including 
 * [MS-COCO](https://cocodataset.org/), 

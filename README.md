@@ -29,7 +29,7 @@ MTTN paper can be accessed from [here]().
 MTTN has been divided into the following splits for easy access, training and testing of different LLM.
 The complete list is given below:
 
-Name | Link | Description
+Name | Link :link: | Description
 --- | --- | ---
 MTTN - 100K | [Download](https://drive.google.com/file/d/1-8Hzbv4nQqva42SW3i7jXclelrwTZgCK/view?usp=sharing) | 100K randomly sample data from the entire MTTN dataset
 MTTN - 250K | [Download](https://drive.google.com/file/d/1-ACOZMbElNiluHhCQDuubSR_y0mnq6vb/view?usp=sharing) | 250K randomly sample data from the entire MTTN dataset

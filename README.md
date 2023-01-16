@@ -32,7 +32,7 @@ The complete list is given below:
 Name | Link :link: | Description
 --- | --- | ---
 MTTN - 100K | [Download](https://drive.google.com/file/d/10bWK_Q_FaWim11i9uob_0ConOLqdry_X/view?usp=share_link) | 100K randomly sample data from the entire MTTN dataset
-MTTN - 250K | [Download](https://drive.google.com/file/d/1-ACOZMbElNiluHhCQDuubSR_y0mnq6vb/view?usp=sharing) | 250K randomly sample data from the entire MTTN dataset
+MTTN - 250K | [Download](https://drive.google.com/file/d/1-A7JXLEIEHKaSnqKQYc7VS3sEY70UhRj/view?usp=share_link) | 250K randomly sample data from the entire MTTN dataset
 MTTN - 500K | [Download](https://drive.google.com/file/d/1-ClEjHDUjH6Zs7775U7dEriE9tVzK86Q/view?usp=sharing) | 500K randomly sample data from the entire MTTN dataset
 MTTN - 1M   | [Download](https://drive.google.com/file/d/1-EeCso_umR1elWcLJwWH1D0cPpKJCK-7/view?usp=share_link) | 1M randomly sample data from the entire MTTN dataset
 MTTN - 2.4M | [Download](https://drive.google.com/file/d/1-JoRvYprRQg7KUX5ad63O1gZbzMSJDLl/view?usp=share_link) | The full dataset that was created, containing more than 2.4 million samples

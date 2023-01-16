@@ -35,7 +35,7 @@ MTTN - 100K | [Download](https://drive.google.com/file/d/1-8Hzbv4nQqva42SW3i7jXc
 MTTN - 250K | [Download](https://drive.google.com/file/d/1-ACOZMbElNiluHhCQDuubSR_y0mnq6vb/view?usp=sharing) | 250K randomly sample data from the entire MTTN dataset
 MTTN - 500K | [Download](https://drive.google.com/file/d/1-ClEjHDUjH6Zs7775U7dEriE9tVzK86Q/view?usp=sharing) | 500K randomly sample data from the entire MTTN dataset
 MTTN - 1M   | [Download](https://drive.google.com/file/d/1-EdUpCWFuMNroO6j0ybXlO9wymJEkVYi/view?usp=sharing) | 1M randomly sample data from the entire MTTN dataset
-MTTN - 2.5M | [Download](https://drive.google.com/file/d/1-KKXrv7zboCgueLJkM0_L6CIhf_Cs4vj/view?usp=sharing) | The full dataset that was created, containing more than 2.5 million samples
+MTTN - 2.4M | [Download](https://drive.google.com/file/d/1-KKXrv7zboCgueLJkM0_L6CIhf_Cs4vj/view?usp=sharing) | The full dataset that was created, containing more than 2.4 million samples
 
 ## Usage :bar_chart:
 

@@ -55,3 +55,22 @@ Output:
 ```
 ___
 ## Citation :pushpin:	
+```citation
+@misc{https://doi.org/10.48550/arxiv.2301.10172,
+  doi = {10.48550/ARXIV.2301.10172},
+  
+  url = {https://arxiv.org/abs/2301.10172},
+  
+  author = {Ghosh, Archan and Ghosh, Debgandhar and Maji, Madhurima and Chanda, Suchinta and Goswami, Kalporup},
+  
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {MTTN: Multi-Pair Text to Text Narratives for Prompt Generation},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
+```

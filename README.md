@@ -55,7 +55,7 @@ Output:
 ```
 ___
 ## Citation :pushpin:	
-```citation
+```bibtex
 @misc{https://doi.org/10.48550/arxiv.2301.10172,
   doi = {10.48550/ARXIV.2301.10172},
   
